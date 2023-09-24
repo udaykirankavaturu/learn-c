@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: circular_queue.dSYM/Contents/Info.plist
+  checksum: df4baf7c6f715883af557e5bc2f8f4ee44565bb9b04c5ddf436937be1abb4ee8
+version: ""

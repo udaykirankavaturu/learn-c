@@ -1,7 +1,2 @@
-  // check if stack is empty
-    if (isEmpty(s))
-    {
-        printf("\n stack is empty, nothing to pop!");
-    }
-    else
-    {
+
+    printf("\n front value is %d", q->front
